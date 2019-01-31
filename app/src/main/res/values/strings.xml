@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Робот "Почтальон"</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Сбербанк Робот</string>
+    <string name="nav_header_subtitle">robot.support@sberbank.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Поиск</string>
+    <string name="title_activity_login">Вход</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Пароль</string>
+    <string name="action_sign_in">Зайти или зарегистрироваться</string>
+    <string name="action_sign_in_short">Вход</string>
+    <string name="error_invalid_email">Некорректный email адрес</string>
+    <string name="error_invalid_password">Короткий пароль</string>
+    <string name="error_incorrect_password">Паротль неверный</string>
+    <string name="error_field_required">Это поле обязательное</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email completions."</string>
+</resources>
